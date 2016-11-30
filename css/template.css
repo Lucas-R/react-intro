@@ -1,0 +1,14 @@
+body{
+	background: #3D67B0;
+	color: #FFF;
+}
+
+.btn{
+	border-radius: 0;
+}
+
+.btn-add{
+	position: fixed;
+	bottom: 0;
+	z-index: 999;
+}
